@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/OSGi%Minimum-1.2"/>
+	<classpathentry kind="lib" path="core.jar"/>
+	<classpathentry kind="lib" path="/Users/Rune/Projects/Processing/libraries/minim/library/jl1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Rune/Projects/Processing/libraries/minim/library/jsminim.jar"/>
+	<classpathentry kind="lib" path="/Users/Rune/Projects/Processing/libraries/minim/library/minim-spi.jar"/>
+	<classpathentry kind="lib" path="/Users/Rune/Projects/Processing/libraries/minim/library/minim.jar"/>
+	<classpathentry kind="lib" path="/Users/Rune/Projects/Processing/libraries/minim/library/mp3spi1.9.4.jar"/>
+	<classpathentry kind="lib" path="/Users/Rune/Projects/Processing/libraries/minim/library/tritonus_aos.jar"/>
+	<classpathentry kind="lib" path="/Users/Rune/Projects/Processing/libraries/minim/library/tritonus_share.jar"/>
+	<classpathentry kind="lib" path="/Users/Rune/Projects/Processing/libraries/proxml/library/proxml.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
